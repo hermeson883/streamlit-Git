@@ -9,3 +9,4 @@ grafico2 = px.bar(df, color='Linguagem', x='Linguagem',
                   y='Desenvolvedores')
 st.plotly_chart(grafico)
 st.plotly_chart(grafico2)
+
