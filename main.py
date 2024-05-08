@@ -14,3 +14,5 @@ st.write("## Dieguinho")
 st.write("""
     ## Dieguinho 
 """)
+
+st.map()
