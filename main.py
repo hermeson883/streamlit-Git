@@ -14,5 +14,5 @@ st.write("## Dieguinho")
 st.write("""
     ## Dieguinho 
 """)
-st.subheader("Deletando uma branch")
+st.subheader("Deletando uma branch de novo")
 st.map()
