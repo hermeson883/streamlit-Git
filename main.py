@@ -10,7 +10,4 @@ grafico2 = px.bar(df, color='Linguagem', x='Linguagem',
 st.plotly_chart(grafico)
 st.plotly_chart(grafico2)
 
-LEROLERO
-DIEGUINHO
-
 st.write(
