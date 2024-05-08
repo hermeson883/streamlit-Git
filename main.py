@@ -12,3 +12,5 @@ st.plotly_chart(grafico2)
 
 LEROLERO
 DIEGUINHO
+
+st.write(
